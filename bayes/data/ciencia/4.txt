@@ -1,0 +1,6 @@
+La nave Maven ya está en la órbita de Marte. La última aventura marciana de la agencia espacial de Estados Unidos (NASA, en inglés) llegó con éxito.
+La sonda atravesó el espacio durante diez meses a toda velocidad hasta que a última hora del domingo echó los frenos, es decir, activó sus turbinas.
+Con 33 minutos de propulsión se amortiguó la velocidad para permitir que fuera capturada por la gravedad de Marte.
+Maven llegó para estudiar la atmósfera del planeta rojo y así tratar de entender el proceso que llevó a que se quedara sin aire.
+En la actualidad, la presión atmosférica es tan baja que el agua en la superficie herviría.
+Los datos de la Maven permitirán a los científicos construir mejores modelos del actual y pasado clima de Marte.

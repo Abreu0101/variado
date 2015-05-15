@@ -1,0 +1,4 @@
+Partamos de una de esas cifras difíciles de visualizar por su magnitud: en un año se enviaron 100.000 millones de emails al día. Y eso es sin contar los emails personales.
+El año fue 2013 y la cifra la proviene del más reciente informe de la firma de investigación The Radicati Group, que además anticipa que para 2017 ese número llegará a los 132.000 millones de emails enviados y recibidos en un día.
+La evidencia es una prueba el éxito de esta herramienta de comunicación, así que puede sorprender el que aquí y allá los observadores del universo tecnológico comenten que en Sillicon Valley se está hablando de un futuro sin email.
+No sólo eso, grandes líderes en empresas en los centros tecnológicos del mundo ya se han desecho de sus cuentas de correo electrónico.
